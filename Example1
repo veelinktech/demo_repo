@@ -1,5 +1,4 @@
-def m1():
-   a,b=5,10
+def m1(a, b):
    print(a+b)
 
-m1()
+m1(10,20)
